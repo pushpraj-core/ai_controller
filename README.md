@@ -1,4 +1,4 @@
-** Next-Gen AI Gesture Controller **
+ NEXT GEN AI-CONTROLLER
 Transform your webcam into a high-precision spatial mouse. No hardware, just code.
 
 
@@ -16,5 +16,6 @@ LoS (Loss-of-Signal) Persistence: Implements a state-lock mechanism that "freeze
 Orthogonal Axis Logic: Intelligent gesture separation—vertical movement triggers Scrolling, while horizontal movement (when pinched) triggers Zooming.
 
 Action Throttling: A 0.6s programmatic cooldown on clicks ensures deliberate interaction and eliminates "double-click" noise from hand jitters.
+
 
 
